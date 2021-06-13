@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="RecyclerView_191086" type="id" />
+    <item name="RecyclerView" type="id" />
+    <item name="list_item_delete_button_191086" type="id" />
+    <item name="list_item_name" type="id" />
+</resources>
